@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Important Note
+Default port for connecting to server api is https://localhost:7174. If server starts up on another port, change port in actions.js
+
 ## Available Scripts
 
 In the project directory, you can run:
